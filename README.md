@@ -36,6 +36,3 @@ The model is trained using the training dataset (X_train and y_train) for a spec
 
 ## Results
 The trained model's performance is evaluated using root mean squared error (RMSE) metrics on both training and testing datasets. Additionally, the predictions are visualized to compare them with actual stock prices.
-
----
-Feel free to customize the README further with additional information, usage instructions, or any other relevant details specific to your project.
